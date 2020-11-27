@@ -71,7 +71,6 @@ console.log("          GAME OVER");
 console.log("================================= \n");
 console.log("Your Final Score is "+score);
 
-
 console.log('=======LEADERBOARD=======');
 console.log(`Name      Score`);
 for(var i = 0; i < leaderBoard.length; i++) {
